@@ -1,0 +1,37 @@
+.call-container{
+    display: flex;
+    flex-direction: column;
+    width: 860px;
+    margin-left: 50px;
+    background-color: #fff;
+    padding: 15px;
+    height: 250;
+    border-radius: 6px;
+    text-align: center;
+    border-width: 2px 0px 0ox 0px;
+    border-style: solid;
+    border-top-color:rgba(41, 20, 70, 0.938); 
+}
+
+.call-heading{
+    font-size: 20px;
+}
+input{
+    margin-bottom: 5px;
+    height: 40px;
+    outline: none;
+}
+select{
+    margin-bottom: 5px;
+    height: 40px;
+    outline: none;
+    color: gray;
+}
+
+.modal{
+    text-align: center;
+}
+.img{
+    background-color: #fff;
+}
+

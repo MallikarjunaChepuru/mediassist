@@ -1,0 +1,52 @@
+.main-container{
+    height: 450px;
+    padding: 85px;
+    display: flex;
+    flex-direction: row;
+    padding: 80px;
+    background-color: azure;
+}
+.head{
+    color: black;
+}
+.paragraph{
+    color: gray;
+    margin-left: 0px;
+}
+.emoji{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+.num{
+    margin: 0;
+}
+.card{
+    background-color:rgb(204, 230, 255) ;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10px;
+    text-align: center;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: 1px sold;
+    border-bottom: 3px solid;
+
+}
+.cards-container{
+    display: flex;
+    flex-direction: row;
+}
+.button-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+}
